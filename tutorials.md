@@ -15,6 +15,9 @@ Here's a convenient link for that: https://www.youtube.com/results?search_query=
 
 That being said, here's a small collection of channels and videos that showcase recent versions of BrickStore:
 
+Brick-Slayer has a bunch of updated Brickstore Related Videos
+- https://www.youtube.com/@Brick-Slayer/search?query=brickstore
+
 GreatBrickLab has a bunch of tutorial videos:
 - https://www.youtube.com/@GreatBrickLab/search?query=brickstore
 
